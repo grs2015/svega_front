@@ -1,0 +1,19 @@
+export default [
+  'mdi-ab-testing',
+  'mdi-abacus',
+  'mdi-account-box-multiple',
+  'mdi-account-reactivate',
+  'mdi-airplane-clock',
+  'mdi-alarm-panel-outline',
+  'mdi-alert-box',
+  'mdi-airballoon',
+  'mdi-alpha-b-box',
+  'mdi-amplifier',
+  'mdi-arrange-bring-to-front',
+  'mdi-arrow-left-bold-outline',
+  'mdi-arrow-right-thick',
+  'mdi-arrow-up-down-bold-outline',
+  'mdi-asterisk',
+  'mdi-axis-z-arrow-lock',
+  'mdi-bathtub-outline'
+]
