@@ -63,7 +63,7 @@ export default {
         {
           text: "Confirmation Date",
           value: "request_date",
-          width: '100'
+          width: '200'
         },
       ],
       loading: false,

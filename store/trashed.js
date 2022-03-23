@@ -243,7 +243,7 @@ export const mutations = {
         request_id: deletedRequests[k].identifier,
         request_name: deletedRequests[k].contactName,
         request_email: deletedRequests[k].contactEmail,
-        request_date: deletedRequests[k].contactDate,
+        request_date: format(new Date(deletedRequests[k].contactDate), 'dd MMM y')
       };
     }
   }
